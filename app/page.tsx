@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main className='flex h-screen flex-col items-center justify-center p-24 overflow-hidden'>
       <motion.div
-        initial={{ top: "50%", left: "50%" }}
+        initial={{ top: "48%", left: "45.5%" }}
         animate={{
           top: 15,
           left: 15,
